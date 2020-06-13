@@ -1,0 +1,194 @@
+.navbar-brand {
+    font-family: 'Amatic SC', cursive;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.btbt {
+    text-align: center;
+    color: black;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fff;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: black;
+    text-shadow: 2px 4px 10px rgb(63, 61, 61), 2px 6px 14px rgb(100, 99, 99);
+}
+
+.btbt:hover {
+    background: white;
+    transition: background 1s;
+    border-radius: 15%;
+}
+
+body {
+    background-color: rgb(19, 19, 19);
+}
+
+.btn {
+    margin: auto;
+}
+
+.container {
+    margin: auto;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.column1 {
+    line-height: 2.5;
+    font-size: larger;
+}
+
+.column2 {
+    line-height: 1rem;
+    background-color: wheat;
+}
+
+.pattern {
+    im
+}
+
+.fas {
+    color: white;
+}
+
+.diamond1 {
+    color: ;
+}
+
+.row2 {
+    margin-left: ;
+}
+
+.container2 {
+    background-color: rgb(29, 29, 29);
+}
+
+.card-text {
+    font-family: 'Architects Daughter', cursive;
+    color: rgb(114, 113, 113);
+}
+
+.card-title {
+    font-family: 'Architects Daughter', cursive;
+    color: rgb(112, 112, 112);
+}
+
+.column1 p {
+    font-family: 'Architects Daughter', cursive;
+    font-weight: 300;
+    color: rgb(248, 242, 230);
+}
+
+.column2 p {
+    font-family: 'Amatic SC', cursive;
+    color: rgb(245, 240, 230);
+    letter-spacing: .15rem;
+}
+
+.cont1 {
+    background-color: rgb(19, 19, 19);
+}
+
+.d1 {
+    color: rgb(21, 21, 21);
+}
+
+.column2 {
+    background-color: rgb(21, 21, 21);
+}
+
+.rowlast {
+    background-color: rgb(255, 255, 255);
+}
+
+.card {
+    background-color: black;
+    margin: auto;
+    border: white;
+}
+
+.card2 {
+    background-color: white;
+}
+
+hr {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(83, 83, 83, 0), rgba(134, 133, 133, 0.75), rgba(153, 152, 152, 0));
+}
+
+.diamond1:hover {
+    color: yellow;
+}
+
+.diamond2 :hover {
+    color: rgb(0, 162, 255);
+}
+
+.diamond3:hover {
+    color: rgb(255, 94, 0);
+}
+
+.diamond4:hover {
+    color: rgb(0, 255, 85);
+}
+
+.diamond5:hover {
+    color: rgb(255, 0, 191);
+}
+
+.diamond6:hover {
+    color: rgb(65, 8, 170);
+}
+
+.diamond1 {
+    color: rgb(35, 35, 35);
+}
+
+.diamond2 {
+    color: rgb(35, 35, 35);
+}
+
+.diamond3 {
+    color: rgb(35, 35, 35);
+}
+
+.diamond4 {
+    color: rgb(35, 35, 35);
+}
+
+.diamond5 {
+    color: rgb(35, 35, 35);
+}
+
+.diamond6 {
+    color: rgb(35, 35, 35);
+}
+
+.column2:hover {
+    background-color: rgb(35, 35, 35);
+}
+
+.b1:hover {
+    color: yellow;
+}
+
+.PLAY {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: rgb(59, 177, 59);
+}
+
+.fa-dice-d20:hover {
+    color: black;
+    transition: color 2s;
+}
